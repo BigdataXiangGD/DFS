@@ -1,6 +1,8 @@
 package sdfs.FailureDetector;
 
 import sdfs.Pid;
+import sdfs.message.FDMessage;
+import sdfs.message.FDMessageType;
 
 import java.io.IOException;
 import java.net.*;
