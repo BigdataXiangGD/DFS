@@ -7,7 +7,7 @@ The DFS proxy server is assumed to be the endpoint for this DFS service.
 So all clients communicate with this DFS proxy server to get the current master among the DFS servers.
 The DFS proxy server acts as the introducer in group membership protocol and does not store any file as part of its service.
 
-### features implemented
+### Features implemented
 - Distributed Transparent File Access
 - Replication
 - Caching
